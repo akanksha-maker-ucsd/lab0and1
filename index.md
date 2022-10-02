@@ -15,7 +15,7 @@ I found out more about this command through [this page](http://guides.beanstalka
 
 I've also had a busy week, mostly because of my busy schedule due to my sorority and [recruitment](#my-week-of-recruitment). 
 
-Onto more about to this repo though, I created a [README](README.md) if you want to learn more! 
+Onto more about to this repo though, I created a [README](README.html) if you want to learn more! 
 
 The classes I'm taking this quarter include: 
 * MGT 167: Social Entrepreneurship 
