@@ -28,6 +28,11 @@ Ranking of my favorite things to cook so far:
 2. Pasta 
 3. Thai Curry
 
+My goals for this quarter
+- [ ] find a job maybe
+- [ ] organize oball
+- [ ] be happy with my friends and family 
+
 ## My Week of Recruitment
 It's been such a busy week! Lots of new people to talk to though so that's been refreshing but also a bit stressful, because I've gotten pretty comfortable being around people that I already know. 
 
